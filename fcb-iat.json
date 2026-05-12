@@ -1,0 +1,16 @@
+{
+  "name": "FC Barcelona IAT",
+  "symbol": "FCB",
+  "description": "Sharematch Issuer-Authority Token bound to the FC Barcelona market on the Sharematch protocol (Solana devnet). IAT id: 6f07c020-7079-4ed5-90c2-d71877ee6898.",
+  "image": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/fcb-iat.webp",
+  "external_url": "https://sharematch.me",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/fcb-iat.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image"
+  }
+}
