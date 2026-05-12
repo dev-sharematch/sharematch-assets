@@ -1,0 +1,16 @@
+{
+  "name": "Sharematch USD",
+  "symbol": "SMUS",
+  "description": "Internal settlement token for the Sharematch protocol. Pegged 1:1 to USDC and minted/burned against the issuer treasury's USDC vault on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/smus-token.jpg",
+  "external_url": "https://sharematch.me",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/smus-token.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
