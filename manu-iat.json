@@ -1,0 +1,16 @@
+{
+  "name": "Man United IAT",
+  "symbol": "MANU",
+  "description": "Sharematch Issuer-Authority Token bound to the Manchester United market on the Sharematch protocol (Solana devnet). IAT id: e5597114-c159-4509-ad53-7a1a27d80ae5.",
+  "image": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/manu-iat.png",
+  "external_url": "https://sharematch.me",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dev-sharematch/sharematch-assets/main/manu-iat.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
